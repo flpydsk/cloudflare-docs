@@ -212,9 +212,19 @@
 /d1/platform/community-projects/ /d1/reference/community-projects/ 301
 /d1/platform/client-api/ /d1/reference/client-api/ 301
 /d1/platform/data-security/ /d1/reference/data-security/ 301
-/d1/platform/environments/ /d1/reference/environments/ 301
-/d1/platform/metrics-analytics/ /d1/reference/metrics-analytics/ 301
+/d1/platform/environments/ /d1/configuration/environments/ 301
+/d1/platform/metrics-analytics/ /d1/observability/metrics-analytics/ 301
 /d1/platform/migrations/ /d1/reference/migrations/ 301
+/d1/learning/debug-d1/ /d1/observability/debug-d1/ 301
+/d1/reference/metrics-analytics/ /d1/observability/metrics-analytics/ 301
+/d1/learning/local-development/ /d1/configuration/local-development/ 301
+/d1/learning/remote-development/ /d1/configuration/remote-development/ 301
+/d1/learning/data-location/ /d1/configuration/data-location/ 301
+/d1/reference/environments/ /d1/configuration/environments/ 301
+/d1/learning/using-indexes/ /d1/how-to/using-indexes/ 301
+/d1/learning/querying-json/ /d1/how-to/querying-json/ 301
+/d1/learning/importing-data/ /d1/how-to/importing-data/ 301
+/d1/learning/generated-columns/ /d1/how-to/generated-columns/ 301
 
 
 # data loss prevention (dlp)
@@ -1195,6 +1205,26 @@
 /kv/learning/how-kv-works/ /kv/reference/how-kv-works/ 301
 /kv/learning/kv-bindings/ /kv/reference/kv-bindings/ 301
 /kv/learning/kv-namespaces/ /kv/reference/kv-namespaces/ 301
+
+# vectorize
+
+/vectorize/learning/what-is-a-vector-database/ /vectorize/reference/what-is-a-vector-database/ 301
+/vectorize/learning/create-indexes/ /vectorize/configuration/create-indexes/ 301
+/vectorize/learning/insert-vectors/ /vectorize/configuration/insert-vectors/ 301
+/vectorize/learning/query-vectors/ /vectorize/configuration/query-vectors/ 301
+/vectorize/learning/metadata-filtering/ /vectorize/reference/metadata-filtering/ 301  
+/vectorize/platform/client-api/ /vectorize/reference/client-api/ 301
+/vectorize/changelog/ /vectorize/platform/changelog/ 301
+
+# hyperdrive
+
+/hyperdrive/learning/how-hyperdrive-works/ /hyperdrive/configuration/how-hyperdrive-works/ 301
+/hyperdrive/learning/connect-to-postgres/ /hyperdrive/configuration/connect-to-postgres/ 301
+/hyperdrive/learning/query-caching/ /hyperdrive/configuration/query-caching/ 301
+/hyperdrive/learning/troubleshooting/ /hyperdrive/reference/troubleshooting/ 301
+/hyperdrive/platform/supported-databases/ /hyperdrive/reference/supported-databases/ 301
+/hyperdrive/changelog/ /hyperdrive/platform/changelog/ 301
+/hyperdrive/learning/ /hyperdrive/configuration/ 301
 
 # zaraz
 
